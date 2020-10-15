@@ -11,7 +11,7 @@ When we were at UBC, we noticed that people were messing up trash bins and threw
 Some people just geniuely don't know how to recycle properly so we thought we might want to help them by
 scanning what type of waste is compostable for them. If user recycles correctly, we praise them. However, if they do it wrong,
 then PREPARE FOR THE ROAST!
-[![console image](https://github.com/tea-win/trashtrack/console.png)
+[![console image](https://github.com/tea-win/trashTrack/blob/master/console.png)
 
 # How we built it
 Set up Python integrations of Azure Computer Image and Azure SQL Database for backend. 
