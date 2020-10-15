@@ -1,5 +1,5 @@
 # trashTrack
-[[!Demo(https://img.youtube.com/vi/XbXU4KoKJHs/0.jpg)] (https://youtu.be/XbXU4KoKJHs)
+[![Demo](https://img.youtube.com/vi/XbXU4KoKJHs/0.jpg)] (https://youtu.be/XbXU4KoKJHs)
 
 nwHacks 2020
 
