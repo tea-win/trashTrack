@@ -1,5 +1,5 @@
 # trashTrack
-Check out our demo: [![Demo](https://img.youtube.com/vi/XbXU4KoKJHs/0.jpg)](https://youtube.com/watch?v=XbXU4KoKJHs)
+Check out our demo:[![Demo](https://img.youtube.com/vi/XbXU4KoKJHs/0.jpg)](https://youtube.com/watch?v=XbXU4KoKJHs)
 
 nwHacks 2020
 
