@@ -14,7 +14,7 @@ we ROAST them!
 
 # How we built it
 Set up Python integrations of Azure Computer Image and Azure SQL Database for backend. 
-Implemented OpenCV for camera motion recognition
+Implemented OpenCV for camera motion recognition and image recognition.
 
 # Challenges we ran into
 We had trouble distinguishing who placed the trash. We tried several methods: bluetooth connection, which was difficult to set up; wifi-signal strength, which was not accurate, and a physical tag for each user, which is not seamless.
