@@ -9,8 +9,8 @@ When we were at UBC, we noticed that people were messing up trash bins and threw
 
 # What it does
 Some people just geniuely don't know how to recycle properly so we thought we might want to help them by
-scanning what type of waste is compostable for them. If user recycle correctly, we praise them. However, if they do it wrong,
-we ROAST them!
+scanning what type of waste is compostable for them. If user recycles correctly, we praise them. However, if they do it wrong,
+then PREPARE FOR THE ROAST!
 
 # How we built it
 Set up Python integrations of Azure Computer Image and Azure SQL Database for backend. 
