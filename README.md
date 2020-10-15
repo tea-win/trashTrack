@@ -14,8 +14,8 @@ we ROAST them!
 Set up Python integrations of Azure Computer Image and Azure SQL Database for backend. 
 Implemented OpenCV for camera motion recognition
 
-#Challenges we ran into
+# Challenges we ran into
 We had trouble distinguishing who placed the trash. We tried several methods: bluetooth connection, which was difficult to set up; wifi-signal strength, which was not accurate, and a physical tag for each user, which is not seamless.
 
 # What's next for trashTrack
-Currently, it's functioning without the user-interface. We are planning to build a user-interface and train our model to recognize more type of waste
+Currently, it's functioning without the user-interface. We are planning to build a user-interface and train our model to recognize more type of wastes
