@@ -2,7 +2,6 @@
 """
 Created on Sat Jan 11 22:02:41 2020
 
-@author: drago
 """
 
 import cv2
