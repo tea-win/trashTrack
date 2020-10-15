@@ -58,7 +58,7 @@ while True:
         else:
             print("Not compostable")
             print("Incorrect! This is not compost!")
-            easygui.msgbox("Correct! Thank you for composting :)", title="correct")
+            easygui.msgbox("We are dissapointed in you! How can you get it wrong????!!!! :)", title="incorrect")
             # cv2.imshow("incorrect", incorrect_image)
         break
         # else:
